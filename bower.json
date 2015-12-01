@@ -1,0 +1,18 @@
+{
+  "name": "showHide",
+  "main": "showHide.js",
+  "authors": [
+    "Andy Lisac <andy.lisac@gmail.com>"
+  ],
+  "description": "My First AngularJS Component",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
